@@ -1,0 +1,189 @@
+.ax_default {
+  font-family:'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.heading_1 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  font-size:16px;
+  color:#CCCCCC;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.flow_shape {
+}
+.html_button {
+  text-align:center;
+}
+.table_cell {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.image1 {
+}
+.shape {
+  font-size:13px;
+  color:#000000;
+}
+.horizontal_line {
+}
+.custom_input_background {
+}
+.custom_input_background__selected_ {
+}
+.custom_input_tick_mark {
+}
+.custom_input_label {
+  font-size:32px;
+  color:#8A8A8A;
+  text-align:left;
+}
+.image2 {
+  font-size:13px;
+  color:#000000;
+}
+.shape1 {
+}
+.image3 {
+}
+.box_31 {
+}
+.icon {
+}
+.box_21 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
+}
+.box_11 {
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.shape2 {
+}
+.heading_11 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.ellipse1 {
+}
+.heading_31 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
