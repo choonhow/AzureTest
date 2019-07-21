@@ -14,6 +14,4 @@ wget https://github.com/choonhow/AzureTest/raw/master/target/sample-web-0.1.0.ja
 
 ls /etc/cloudx
 
-cd /home/cloudx
-
-nohup java -jar sample-web-0.1.0.jar > nohup.out 2>&1&
+nohup java -jar /etc/cloudx/sample-web-0.1.0.jar > /etc/cloudx/nohup.out 2>&1&
