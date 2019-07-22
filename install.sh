@@ -1,8 +1,12 @@
 #!/bin/bash
 
-sudo apt-get update
+#sudo apt-get update
+#sudo apt-get --yes --force-yes install openjdk-8-jdk
+sudo yum -y install java-1.8.0-openjdk
 
-sudo apt-get --yes --force-yes install openjdk-8-jdk
+sudo firewall-cmd --add-port=8080/tcp --permanent
+
+sudo systemctl restart firewalld
 
 mkdir /etc/cloudx
 
