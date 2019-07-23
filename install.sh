@@ -6,7 +6,7 @@
 
 sudo yum -y install httpd
 
-sudo service start
+sudo service httpd start
 
 sudo firewall-cmd --add-port=80/tcp --permanent
 
