@@ -12,10 +12,10 @@ sudo firewall-cmd --add-port=80/tcp --permanent
 
 sudo systemctl restart firewalld
 
-rm -rf /var/www/html/*
+sudo rm -rf /var/www/html/*
 
-wget https://github.com/choonhow/AzureTest/raw/master/static/pud.zip -O /var/www/html/pud.zip
+sudo wget https://github.com/choonhow/AzureTest/raw/master/static/pud.zip -O /var/www/html/pud.zip
 
-unzip /var/www/html/pud.zip -d /var/www/html/
+sudo unzip /var/www/html/pud.zip -d /var/www/html/
 
-mv  /var/www/html/pud/* /var/www/html/.
+sudo mv  /var/www/html/pud/* /var/www/html/.
